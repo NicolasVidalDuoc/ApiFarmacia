@@ -9,3 +9,7 @@ class Productos(models.Model):
 
     def __str__(self):
         return self.nombre_producto
+
+
+#Hola Josao Cofrao
+#Seba Entero Feo
