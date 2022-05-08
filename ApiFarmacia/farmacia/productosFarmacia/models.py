@@ -12,4 +12,3 @@ class Productos(models.Model):
 
 
 #Hola Josao Cofrao
-#Seba Entero Feo
